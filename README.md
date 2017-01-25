@@ -2,7 +2,6 @@
 
 ## Overview
 Simple pedestrina detector build using pre-trained openCV HOG + linear pedestrian SVM
-Adapted from http://www.pyimagesearch.com/2015/11/09/pedestrian-detection-opencv/
 
 ## Database
 Database on which experiments are run : https://www.cis.upenn.edu/~jshi/ped_html/#pub1
